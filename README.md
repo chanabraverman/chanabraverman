@@ -43,9 +43,7 @@ Currently, I am gaining real-world experience as a **Full Stack Developer** at t
 ![Chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanabraverman&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanabraverman&layout=compact&theme=tokyonight&hide_border=true)
 
-
 ---
-
 
 **Stay strong 💪 and — we can do it! 💯**
 
