@@ -9,9 +9,9 @@ Currently, I am gaining real-world experience as a **Full Stack Developer** at t
 
 
 #### 🚀 About Me
-- 🔍 Always ready to learn something new - whether it's diving into **Cybersecurity** challenges on TryHackMe or optimizing a database query.
-- 💡 I truly believe that the secret to moving forward is simply to start. My goal is to build a **meaningful life with my degree**, not just a degree with a life.
-- ⚡ Never afraid to dive into the deep end, I adapt at lightning speed to any situation, and I find pure joy in places where I can contribute and learn from everyone around me.
+* 🔍 **Always learning:** Diving into **Cybersecurity** challenges on TryHackMe or optimizing database queries.
+* 💡 **Mindset:** The secret to moving forward is simply to start — building a **meaningful life with my degree**, not just a degree with a life.
+* ⚡ **Adaptability:** Never afraid of the deep end, adapting fast to any situation, and learning from everyone around me.
 
 
 #### 🛠️ Tech Stack & Tools
@@ -23,10 +23,14 @@ Currently, I am gaining real-world experience as a **Full Stack Developer** at t
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
----
-
 #### 📊 GitHub Activity
 ![Chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanabraverman&show_icons=true&theme=tokyonight)
 
-**Stay strong 💪 and - we can do it! 💯**  
+
+---
+
+
+**Stay strong 💪 and — we can do it! 💯**
+
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mrnbraverman)
