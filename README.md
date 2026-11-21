@@ -1,27 +1,18 @@
-### Hello, world! (Or at least, my git world...) 👋
+# Hi, I'm Chani Braverman 👋
 
 
-I'm a **Computer Science student** with boundless energy and a smile that never fades.  
-Currently, I am gaining real-world experience as a **Full Stack Developer** at the Israel Tax Authority (`SH.A.M`), building web applications with **C# (.NET)**, **Angular** & **Crystal Reports**.
-
-
----
-
-
-#### 🚀 About Me
-* 🔍 **Always Learning:** Diving into **Cybersecurity** challenges on TryHackMe or optimizing database queries.
-* 💡 **Mindset:** The secret to moving forward is simply to start — building a **meaningful life with my degree**, not just a degree with a life.
-* ⚡ **Adaptability:** Never afraid of the deep end, adapting at lightning speed to any situation, and finding pure joy where I can contribute and learn from everyone around me.
+**Computer Science Student & Full Stack Developer**  
+Building scalable web applications with **C# (.NET)**, **Angular**, and **Crystal Reports** at the Israel Tax Authority[span_1](start_span)[span_1](end_span).
 
 
 ---
 
 
-#### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 
-**Backend & Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Languages & Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,23 +22,24 @@ Currently, I am gaining real-world experience as a **Full Stack Developer** at t
 **Frontend & Reporting**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-005A9C?style=for-the-badge&logo=sap&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0F4C81?style=for-the-badge&logo=sap&logoColor=white)
 
 
 ---
 
 
-#### 📊 GitHub Stats
+### 🎯 Current Focus
 
 
-![Chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanabraverman&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanabraverman&layout=compact&theme=tokyonight&hide_border=true)
+* **Full-Stack Engineering:** End-to-end development and maintainable architecture[span_2](start_span)[span_2](end_span).
+* **Database Performance:** Writing and optimizing SQL queries for speed and reliability[span_3](start_span)[span_3](end_span).
+* **Cybersecurity:** Sharpening practical offensive/defensive skills through TryHackMe labs[span_4](start_span)[span_4](end_span).
 
 
 ---
 
 
-**Stay strong 💪 and — we can do it! 💯**
+### 📫 Connect
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrnbraverman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanibraverman)
